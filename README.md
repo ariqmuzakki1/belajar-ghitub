@@ -1,2 +1,8 @@
-# belajar-ghitub
-Mini project to learn GitHub and basic development as an Information Systems student.
+# Mini Project
+
+Ini adalah mini project pertama saya untuk belajar GitHub.
+
+## Tujuan
+- Belajar Git & GitHub
+- Memahami repository
+- Membuat portofolio
